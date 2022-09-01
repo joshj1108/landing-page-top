@@ -159,3 +159,32 @@ body {
     padding-right: 50px;
     font-size: 20px;
   }
+
+  .call-to-action {
+    padding: 100px 50vh;
+  }
+  
+  .action-container {
+    background: #3882F6;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 100px;
+    border-radius: 25px;
+  }
+  
+  .action-right .sign-up {
+    border: 1px white solid;
+    
+  }
+  
+  .action-title {
+    font-size: 24px;
+    color: #f9faf8;
+  }
+  
+  .action-text {
+    font-size: 18px;
+    font-style: italic;
+    color: #e5e7eb;
+  }
