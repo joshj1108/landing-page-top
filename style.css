@@ -166,8 +166,17 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 30px 100px;
+    padding: 30px 50px;
     border-radius: 25px;
+  }
+
+  .action-left {
+    flex: 3;
+  }
+
+  .action-right {
+    flex: 1;
+    padding-left: 80px;
   }
   
   .action-right .sign-up {
